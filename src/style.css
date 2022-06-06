@@ -1,0 +1,9 @@
+.imagem_carrossel_um{
+    object-fit: cover;
+    object-position: 0 100%;
+    height: 80vh;
+}
+.imagem_carrossel_dois{
+    object-fit: cover;
+    height: 80vh;
+}
