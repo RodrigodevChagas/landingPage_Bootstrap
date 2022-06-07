@@ -7,3 +7,11 @@
     object-fit: cover;
     height: 80vh;
 }
+
+.Fonte-Pacifico{
+    font-family:'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred;
+}
