@@ -30,3 +30,7 @@
     object-fit: cover;
     height: 30vh;
 }
+
+#cor-especial-nav-bar{
+    color: darkred;
+}
